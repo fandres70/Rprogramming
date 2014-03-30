@@ -1,1 +1,3 @@
-Course materials for R programming
+## R Programming
+
+Course materials from R programming course on Coursera https://www.coursera.org/course/rprog
